@@ -47,3 +47,5 @@ The Power BI dashboard enables the financial institution to:
 Monitor and analyze complaint data efficiently.
 
 Improve customer satisfaction, regulatory compliance, and operational performance.
+
+Make data-driven decisions using visual insights that reflect complaint trends and resolution outcomes.
