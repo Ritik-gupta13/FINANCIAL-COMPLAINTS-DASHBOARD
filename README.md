@@ -1,5 +1,5 @@
 # FINANCIAL-COMPLAINTS-DASHBOARD
-Problem Statement
+#Problem Statement
 Background: A financial institution wants to gain a comprehensive understanding of customer complaints to improve their customer service and compliance with regulations. The organization collects and manages data on complaints, and it is essential to present this data effectively for informed decision-making.
 Objective: Design a Power BI dashboard to provide a visual representation of key performance indicators (KPIs) and relevant charts for the financial institution to gain insights into customer complaints and their resolution status.
 KPIs:
